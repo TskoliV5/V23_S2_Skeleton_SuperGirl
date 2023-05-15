@@ -1,6 +1,12 @@
 # Skeleton-super-Girl
 Dead Inside
 
+Hópmeðlimir:
+Björgvin Þeyr Guðmusdsson
+Einar Andrés Þórarinsson
+Bjarki Freyr Ragnarsson
+
+
 Við þrír bjuggum til saman beinagrindi sem býr yfir þeim eiginleika að hreyfa sig upp og niður og vera með heljarinnar óhljóð þegar eithver kemur innan við 88 centimetra fyrir framan hana.
 Hún hefur líka rauð augu sem blikka og munn sem hreyfist. Það er einfalt og þægilegt að breyta LED preonum í hvaða lit sem er.
 
