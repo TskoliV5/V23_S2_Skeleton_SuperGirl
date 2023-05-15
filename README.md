@@ -1,11 +1,14 @@
 # Skeleton-super-Girl
-dead inside
+Dead Inside
 
 Við þrír bjuggum til saman beinagrindi sem býr yfir þeim eiginleika að hreyfa sig upp og niður og vera með heljarinnar óhljóð þegar eithver kemur innan við 88 centimetra fyrir framan hana.
 Hún hefur líka rauð augu sem blikka og munn sem hreyfist. Það er einfalt og þægilegt að breyta LED preonum í hvaða lit sem er.
 
 Við notuðum Servo motor, DC motor, MP3 spilara, Rauð LED, Fjarlægðaskynjara, hátalara og Aurdino UNO.
 Okkur fannst þetta afskablega skemmtilegt verkefni vegna þess að við höfðum svo mikið frelsi til þess að gera verkefnið eins og okkur langaði og við erum mjög ánægðir með hvernig þetta endaði hjá okkur.
+
+Myndir
+==========================
 
 ![20230515_143928](https://github.com/Dedneyder/Skeleton-super-Girl/assets/129172410/66cb2f9e-3f35-466b-93a4-63cfab79eb81)
 
@@ -25,7 +28,7 @@ https://www.youtube.com/watch?v=QffYzWWR1zU
 
 
 
-kóðinn
+Kóðinn
 ================================================================================================================
 #include "tdelay.h"
 #include "Arduino.h"
