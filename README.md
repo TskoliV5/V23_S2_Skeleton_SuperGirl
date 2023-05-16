@@ -14,7 +14,8 @@ Við notuðum Servo motor, DC motor, MP3 spilara, Rauð LED, Fjarlægðaskynjara
 Okkur fannst þetta afskablega skemmtilegt verkefni vegna þess að við höfðum svo mikið frelsi til þess að gera verkefnið eins og okkur langaði og við erum mjög ánægðir með hvernig þetta endaði hjá okkur.
 
 <br>
-[<img src="https://img.youtube.com/vi/QffYzWWR1zU/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/QffYzWWR1zU)
+
+[<img src="https://img.youtube.com/vi/QffYzWWR1zU/hqdefault.jpg" width="75%" height="75%">](https://youtu.be/QffYzWWR1zU)
 
 
 
