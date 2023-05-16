@@ -13,6 +13,11 @@ Hún hefur líka rauð augu sem blikka og munn sem hreyfist. Það er einfalt og
 Við notuðum Servo motor, DC motor, MP3 spilara, Rauð LED, Fjarlægðaskynjara, hátalara og Aurdino UNO.
 Okkur fannst þetta afskablega skemmtilegt verkefni vegna þess að við höfðum svo mikið frelsi til þess að gera verkefnið eins og okkur langaði og við erum mjög ánægðir með hvernig þetta endaði hjá okkur.
 
+<br>
+[<img src="https://img.youtube.com/vi/QffYzWWR1zU/hqdefault.jpg" width="50%" height="50%">](https://youtu.be/QffYzWWR1zU)
+
+
+
 Myndir
 ==========================
 
@@ -25,17 +30,11 @@ Myndir
 ![20230515_133205](https://github.com/Dedneyder/Skeleton-super-Girl/assets/129172410/8a2cc802-01ac-4276-816b-2ad025da6177)
 
 
-
-vídeo
-===================================================================
-https://www.youtube.com/watch?v=QffYzWWR1zU
-
-
-
-
-
 Kóðinn
 ================================================================================================================
+
+```C++
+
 #include "tdelay.h"
 #include "Arduino.h"
 #include "SoftwareSerial.h"
@@ -61,17 +60,9 @@ const int TRIG =4;
 DFRobotDFPlayerMini myDFPlayer;                        // útfært neðar
 TDelay spilun(10000);    
 
-
-
-
     Servo motor; // bý til tilvik af Servo klasanum
  // pinninn sem ég nota til að stjórna mótornum
 TDelay updown(300);
-
-
-
-
-
 
 
 // svipað og listi í python, geymir stefnurnar sem mótorinn á að fara í og í hvaða röð
@@ -183,9 +174,6 @@ void Blikk(){
 }
 
 
-
-
-
 void loop()  {
 
      distance = fjarlaegd();           // fáum fjarlægðamælingu í cm.
@@ -198,23 +186,6 @@ void loop()  {
  Blikk();
  }
  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 int fjarlaegd() {
@@ -230,3 +201,5 @@ int fjarlaegd() {
     return (int)pulseIn(ECHO,HIGH)/58.0; // deilt með 58 til að breyta í cm
 
 }
+
+```C++
